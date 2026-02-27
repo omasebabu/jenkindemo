@@ -1,1 +1,1 @@
-print("hello parth omase here!!!")
+print"hello parth omase here!!!")
